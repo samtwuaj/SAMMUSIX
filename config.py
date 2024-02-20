@@ -26,7 +26,7 @@ ASSUSERNAME = getenv("ASSUSERNAME" , "MissBuGMusix")
 
 #---------------------------------------------------------------
 #---------------------------------------------------------------
-MONGO_DB_URI = getenv("MONGO_DB_URI","mongodb+srv://MAXIM:Nothing0000@maxim.cimgxmq.mongodb.net/?retryWrites=true&w=majority")
+MONGO_DB_URI = getenv("MONGO_DB_URI","")
 #---------------------------------------------------------------
 #---------------------------------------------------------------
 
