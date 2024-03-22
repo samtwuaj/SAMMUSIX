@@ -32,8 +32,12 @@ async def start(_, msg):
           InlineKeyboardButton("𝐊ɪᴅɴᴀᴘ 𝐌ᴇ ❤️‍🩹🍃", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")
         ],
         [
-          InlineKeyboardButton("❥︎ Gʀᴏᴜᴘ 1 💗🍃", url="https://t.me/+EKbRf8cIsIo3NTVl"),
-          InlineKeyboardButton("❥︎ Gʀᴏᴜᴘ 2 💗🍃", url="https://t.me/+b0Yxeq9kYO1lMjQ1"),
+          InlineKeyboardButton("❥︎ Gʀᴏᴜᴘ 1 💗🍃", url="https://t.me/+GwJYO4nhgWU5NDhl"),
+          InlineKeyboardButton("❥︎ Gʀᴏᴜᴘ 2 💗🍃", url="https://t.me/BuG_x_Support"),
+          ],
+[
+          InlineKeyboardButton("💗 ᴄʜᴀɴɴᴇʟ 💗", url="https://t.me/xD_Feelings"),
+          InlineKeyboardButton("💗 ᴅᴘᴢ ᴄʜᴀɴɴᴇʟ 💗", url="https://t.me/Unconditional_Dps"),
           ],
 [
               InlineKeyboardButton("˹ʙʊɢ ✘ ɢᴀϻᴇ ˼ 💗", url=f"https://t.me/BuG_x_GameBot"),
