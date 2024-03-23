@@ -9,18 +9,18 @@ from pyrogram import filters
 load_dotenv()
 # ------------------------------------
 # -----------------------------------------------------
-API_ID = int(getenv("API_ID","20086696"))
-API_HASH = getenv("API_HASH","ceaec4d63c9d0a76f2fc8dd85edb2eec")
+API_ID = int(getenv("API_ID",""))
+API_HASH = getenv("API_HASH","")
 # ------------------------------------------------------
 BOT_TOKEN = getenv("BOT_TOKEN","")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","NoT_uR_SoHeL")
+OWNER_USERNAME = getenv("OWNER_USERNAME","sinsinati123")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "BuG_Musix_Bot")
+BOT_USERNAME = getenv("BOT_USERNAME" , "sul_zoy_786_bot")
 # --------------------------------------------------------
-BOT_NAME = getenv("BOT_NAME" , "BuG")
+BOT_NAME = getenv("BOT_NAME" , "SaM")
 # ---------------------------------------------------------
-ASSUSERNAME = getenv("ASSUSERNAME" , "MissBuGMusix")
+ASSUSERNAME = getenv("ASSUSERNAME" , "tom_jerry665")
 # ---------------------------------------------------------
 
 
@@ -35,10 +35,10 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
 # ----------------------------------------------------------------
 
 # ----------------------------------------------------------------
-LOGGER_ID = int(getenv("LOGGER_ID", -1002111389603))
+LOGGER_ID = int(getenv("LOGGER_ID", -1002026929279))
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-OWNER_ID = int(getenv("OWNER_ID", 6449370627))
+OWNER_ID = int(getenv("OWNER_ID", 1606181191))
 # -----------------------------------------------------------------
 # -----------------------------------------------------------------
 
@@ -53,7 +53,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 # ----------------------------------------------------------------
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/SH251204/BuGMusix",
+    "https://github.com/samtwuaj/SAMMUSIX",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "Master")
 GIT_TOKEN = getenv(
@@ -67,8 +67,8 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Unconditional_Dps")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+GwJYO4nhgWU5NDhl")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/+_mtELaE1sKUyMjFl")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+_mtELaE1sKUyMjFl")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
